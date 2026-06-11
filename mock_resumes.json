@@ -1,0 +1,682 @@
+[
+    {
+        "id": 0,
+        "name": "Ibrahim Expert",
+        "role": "AI Engineer",
+        "skills": [
+            "Python",
+            "PyTorch",
+            "NLP",
+            "FAISS",
+            "Transformers",
+            "Vector Databases",
+            "Semantic Search"
+        ],
+        "experience_years": 5,
+        "summary": "Experienced AI Engineer with 5 years of experience. Skilled in Python, PyTorch, NLP, FAISS, Transformers, Vector Databases, Semantic Search."
+    },
+    {
+        "id": 1,
+        "name": "Laila Hassan",
+        "role": "Python Developer",
+        "skills": [
+            "SQL",
+            "Python",
+            "Flask",
+            "Django"
+        ],
+        "experience_years": 10,
+        "summary": "Experienced Python Developer with 10 years of experience. Skilled in SQL, Python, Flask, Django."
+    },
+    {
+        "id": 2,
+        "name": "Laila Mansour",
+        "role": "DevOps Engineer",
+        "skills": [
+            "CI/CD",
+            "Docker",
+            "Linux"
+        ],
+        "experience_years": 2,
+        "summary": "Experienced DevOps Engineer with 2 years of experience. Skilled in CI/CD, Docker, Linux."
+    },
+    {
+        "id": 3,
+        "name": "Omar Said",
+        "role": "Data Scientist",
+        "skills": [
+            "NumPy",
+            "Pandas",
+            "Machine Learning",
+            "Python"
+        ],
+        "experience_years": 8,
+        "summary": "Experienced Data Scientist with 8 years of experience. Skilled in NumPy, Pandas, Machine Learning, Python."
+    },
+    {
+        "id": 4,
+        "name": "Aisha Tariq",
+        "role": "DevOps Engineer",
+        "skills": [
+            "Docker",
+            "CI/CD",
+            "Terraform",
+            "AWS",
+            "Linux",
+            "Kubernetes"
+        ],
+        "experience_years": 2,
+        "summary": "Experienced DevOps Engineer with 2 years of experience. Skilled in Docker, CI/CD, Terraform, AWS, Linux, Kubernetes."
+    },
+    {
+        "id": 5,
+        "name": "Omar Kamal",
+        "role": "Python Developer",
+        "skills": [
+            "Python",
+            "SQL",
+            "Flask",
+            "REST APIs",
+            "Git"
+        ],
+        "experience_years": 2,
+        "summary": "Experienced Python Developer with 2 years of experience. Skilled in Python, SQL, Flask, REST APIs, Git."
+    },
+    {
+        "id": 6,
+        "name": "Fatima Fawzi",
+        "role": "Frontend Engineer",
+        "skills": [
+            "TypeScript",
+            "Redux",
+            "JavaScript"
+        ],
+        "experience_years": 6,
+        "summary": "Experienced Frontend Engineer with 6 years of experience. Skilled in TypeScript, Redux, JavaScript."
+    },
+    {
+        "id": 7,
+        "name": "Youssef Mahmoud",
+        "role": "Python Developer",
+        "skills": [
+            "SQL",
+            "Django",
+            "Python",
+            "Git"
+        ],
+        "experience_years": 5,
+        "summary": "Experienced Python Developer with 5 years of experience. Skilled in SQL, Django, Python, Git."
+    },
+    {
+        "id": 8,
+        "name": "Ahmed Mahmoud",
+        "role": "Product Manager",
+        "skills": [
+            "Scrum",
+            "Product Roadmap",
+            "Leadership"
+        ],
+        "experience_years": 7,
+        "summary": "Experienced Product Manager with 7 years of experience. Skilled in Scrum, Product Roadmap, Leadership."
+    },
+    {
+        "id": 9,
+        "name": "Mohamed Said",
+        "role": "Frontend Engineer",
+        "skills": [
+            "JavaScript",
+            "Redux",
+            "CSS",
+            "TypeScript",
+            "React"
+        ],
+        "experience_years": 10,
+        "summary": "Experienced Frontend Engineer with 10 years of experience. Skilled in JavaScript, Redux, CSS, TypeScript, React."
+    },
+    {
+        "id": 10,
+        "name": "Aisha Abdallah",
+        "role": "Data Scientist",
+        "skills": [
+            "SQL",
+            "NumPy",
+            "Pandas",
+            "Scikit-Learn",
+            "Python",
+            "Machine Learning"
+        ],
+        "experience_years": 2,
+        "summary": "Experienced Data Scientist with 2 years of experience. Skilled in SQL, NumPy, Pandas, Scikit-Learn, Python, Machine Learning."
+    },
+    {
+        "id": 11,
+        "name": "Laila Ali",
+        "role": "Product Manager",
+        "skills": [
+            "Jira",
+            "Leadership",
+            "Agile"
+        ],
+        "experience_years": 10,
+        "summary": "Experienced Product Manager with 10 years of experience. Skilled in Jira, Leadership, Agile."
+    },
+    {
+        "id": 12,
+        "name": "Nour Kamal",
+        "role": "Product Manager",
+        "skills": [
+            "Agile",
+            "Scrum",
+            "Leadership",
+            "Communication",
+            "Product Roadmap"
+        ],
+        "experience_years": 9,
+        "summary": "Experienced Product Manager with 9 years of experience. Skilled in Agile, Scrum, Leadership, Communication, Product Roadmap."
+    },
+    {
+        "id": 13,
+        "name": "Sarah Ali",
+        "role": "Frontend Engineer",
+        "skills": [
+            "TypeScript",
+            "React",
+            "HTML",
+            "JavaScript",
+            "Redux"
+        ],
+        "experience_years": 6,
+        "summary": "Experienced Frontend Engineer with 6 years of experience. Skilled in TypeScript, React, HTML, JavaScript, Redux."
+    },
+    {
+        "id": 14,
+        "name": "Sarah Ibrahim",
+        "role": "AI Engineer",
+        "skills": [
+            "TensorFlow",
+            "Computer Vision",
+            "NLP"
+        ],
+        "experience_years": 1,
+        "summary": "Experienced AI Engineer with 1 years of experience. Skilled in TensorFlow, Computer Vision, NLP."
+    },
+    {
+        "id": 15,
+        "name": "Fatima Mahmoud",
+        "role": "DevOps Engineer",
+        "skills": [
+            "AWS",
+            "Linux",
+            "Terraform"
+        ],
+        "experience_years": 9,
+        "summary": "Experienced DevOps Engineer with 9 years of experience. Skilled in AWS, Linux, Terraform."
+    },
+    {
+        "id": 16,
+        "name": "Sarah Mahmoud",
+        "role": "AI Engineer",
+        "skills": [
+            "Computer Vision",
+            "Transformers",
+            "NLP",
+            "PyTorch",
+            "Semantic Search",
+            "Python",
+            "TensorFlow",
+            "FAISS"
+        ],
+        "experience_years": 1,
+        "summary": "Experienced AI Engineer with 1 years of experience. Skilled in Computer Vision, Transformers, NLP, PyTorch, Semantic Search, Python, TensorFlow, FAISS."
+    },
+    {
+        "id": 17,
+        "name": "Laila Ibrahim",
+        "role": "Data Scientist",
+        "skills": [
+            "Machine Learning",
+            "Python",
+            "Pandas",
+            "NumPy"
+        ],
+        "experience_years": 6,
+        "summary": "Experienced Data Scientist with 6 years of experience. Skilled in Machine Learning, Python, Pandas, NumPy."
+    },
+    {
+        "id": 18,
+        "name": "Fatima Fawzi",
+        "role": "AI Engineer",
+        "skills": [
+            "PyTorch",
+            "Python",
+            "Semantic Search",
+            "TensorFlow",
+            "NLP"
+        ],
+        "experience_years": 7,
+        "summary": "Experienced AI Engineer with 7 years of experience. Skilled in PyTorch, Python, Semantic Search, TensorFlow, NLP."
+    },
+    {
+        "id": 19,
+        "name": "Aisha Hassan",
+        "role": "DevOps Engineer",
+        "skills": [
+            "Kubernetes",
+            "Terraform",
+            "Linux",
+            "AWS",
+            "Docker",
+            "CI/CD"
+        ],
+        "experience_years": 9,
+        "summary": "Experienced DevOps Engineer with 9 years of experience. Skilled in Kubernetes, Terraform, Linux, AWS, Docker, CI/CD."
+    },
+    {
+        "id": 20,
+        "name": "Laila Mansour",
+        "role": "DevOps Engineer",
+        "skills": [
+            "Linux",
+            "Terraform",
+            "Docker",
+            "CI/CD"
+        ],
+        "experience_years": 6,
+        "summary": "Experienced DevOps Engineer with 6 years of experience. Skilled in Linux, Terraform, Docker, CI/CD."
+    },
+    {
+        "id": 21,
+        "name": "Fatima Tariq",
+        "role": "Data Scientist",
+        "skills": [
+            "Scikit-Learn",
+            "Python",
+            "Machine Learning",
+            "NumPy",
+            "SQL"
+        ],
+        "experience_years": 6,
+        "summary": "Experienced Data Scientist with 6 years of experience. Skilled in Scikit-Learn, Python, Machine Learning, NumPy, SQL."
+    },
+    {
+        "id": 22,
+        "name": "Sarah Kamal",
+        "role": "Data Scientist",
+        "skills": [
+            "SQL",
+            "Machine Learning",
+            "Pandas",
+            "Scikit-Learn",
+            "Python",
+            "NumPy"
+        ],
+        "experience_years": 6,
+        "summary": "Experienced Data Scientist with 6 years of experience. Skilled in SQL, Machine Learning, Pandas, Scikit-Learn, Python, NumPy."
+    },
+    {
+        "id": 23,
+        "name": "Ahmed Kamal",
+        "role": "Frontend Engineer",
+        "skills": [
+            "Redux",
+            "JavaScript",
+            "TypeScript",
+            "React",
+            "HTML"
+        ],
+        "experience_years": 9,
+        "summary": "Experienced Frontend Engineer with 9 years of experience. Skilled in Redux, JavaScript, TypeScript, React, HTML."
+    },
+    {
+        "id": 24,
+        "name": "Sarah Ibrahim",
+        "role": "Frontend Engineer",
+        "skills": [
+            "HTML",
+            "JavaScript",
+            "TypeScript",
+            "CSS"
+        ],
+        "experience_years": 10,
+        "summary": "Experienced Frontend Engineer with 10 years of experience. Skilled in HTML, JavaScript, TypeScript, CSS."
+    },
+    {
+        "id": 25,
+        "name": "Omar Mahmoud",
+        "role": "AI Engineer",
+        "skills": [
+            "FAISS",
+            "PyTorch",
+            "NLP",
+            "Python",
+            "TensorFlow"
+        ],
+        "experience_years": 10,
+        "summary": "Experienced AI Engineer with 10 years of experience. Skilled in FAISS, PyTorch, NLP, Python, TensorFlow."
+    },
+    {
+        "id": 26,
+        "name": "Mohamed Tariq",
+        "role": "Data Scientist",
+        "skills": [
+            "Machine Learning",
+            "Scikit-Learn",
+            "Pandas",
+            "SQL",
+            "Python",
+            "NumPy"
+        ],
+        "experience_years": 6,
+        "summary": "Experienced Data Scientist with 6 years of experience. Skilled in Machine Learning, Scikit-Learn, Pandas, SQL, Python, NumPy."
+    },
+    {
+        "id": 27,
+        "name": "Ali Mansour",
+        "role": "Frontend Engineer",
+        "skills": [
+            "React",
+            "TypeScript",
+            "JavaScript",
+            "HTML"
+        ],
+        "experience_years": 1,
+        "summary": "Experienced Frontend Engineer with 1 years of experience. Skilled in React, TypeScript, JavaScript, HTML."
+    },
+    {
+        "id": 28,
+        "name": "Ahmed Mansour",
+        "role": "Frontend Engineer",
+        "skills": [
+            "React",
+            "JavaScript",
+            "TypeScript"
+        ],
+        "experience_years": 8,
+        "summary": "Experienced Frontend Engineer with 8 years of experience. Skilled in React, JavaScript, TypeScript."
+    },
+    {
+        "id": 29,
+        "name": "Youssef Said",
+        "role": "Product Manager",
+        "skills": [
+            "Product Roadmap",
+            "Agile",
+            "Communication",
+            "Scrum",
+            "Leadership",
+            "Jira"
+        ],
+        "experience_years": 6,
+        "summary": "Experienced Product Manager with 6 years of experience. Skilled in Product Roadmap, Agile, Communication, Scrum, Leadership, Jira."
+    },
+    {
+        "id": 30,
+        "name": "Omar Kamal",
+        "role": "DevOps Engineer",
+        "skills": [
+            "Kubernetes",
+            "Linux",
+            "CI/CD",
+            "AWS",
+            "Terraform"
+        ],
+        "experience_years": 10,
+        "summary": "Experienced DevOps Engineer with 10 years of experience. Skilled in Kubernetes, Linux, CI/CD, AWS, Terraform."
+    },
+    {
+        "id": 31,
+        "name": "Laila Kamal",
+        "role": "AI Engineer",
+        "skills": [
+            "Python",
+            "NLP",
+            "TensorFlow",
+            "FAISS",
+            "PyTorch",
+            "Semantic Search",
+            "Transformers",
+            "Computer Vision"
+        ],
+        "experience_years": 8,
+        "summary": "Experienced AI Engineer with 8 years of experience. Skilled in Python, NLP, TensorFlow, FAISS, PyTorch, Semantic Search, Transformers, Computer Vision."
+    },
+    {
+        "id": 32,
+        "name": "Fatima Hassan",
+        "role": "AI Engineer",
+        "skills": [
+            "Computer Vision",
+            "Transformers",
+            "PyTorch",
+            "TensorFlow",
+            "Python",
+            "Semantic Search"
+        ],
+        "experience_years": 7,
+        "summary": "Experienced AI Engineer with 7 years of experience. Skilled in Computer Vision, Transformers, PyTorch, TensorFlow, Python, Semantic Search."
+    },
+    {
+        "id": 33,
+        "name": "Mohamed Hassan",
+        "role": "Python Developer",
+        "skills": [
+            "Django",
+            "Flask",
+            "SQL",
+            "REST APIs",
+            "Python"
+        ],
+        "experience_years": 7,
+        "summary": "Experienced Python Developer with 7 years of experience. Skilled in Django, Flask, SQL, REST APIs, Python."
+    },
+    {
+        "id": 34,
+        "name": "Omar Kamal",
+        "role": "DevOps Engineer",
+        "skills": [
+            "CI/CD",
+            "Docker",
+            "Linux"
+        ],
+        "experience_years": 2,
+        "summary": "Experienced DevOps Engineer with 2 years of experience. Skilled in CI/CD, Docker, Linux."
+    },
+    {
+        "id": 35,
+        "name": "Aisha Said",
+        "role": "DevOps Engineer",
+        "skills": [
+            "CI/CD",
+            "Terraform",
+            "Kubernetes",
+            "Linux",
+            "Docker"
+        ],
+        "experience_years": 8,
+        "summary": "Experienced DevOps Engineer with 8 years of experience. Skilled in CI/CD, Terraform, Kubernetes, Linux, Docker."
+    },
+    {
+        "id": 36,
+        "name": "Youssef Said",
+        "role": "Product Manager",
+        "skills": [
+            "Scrum",
+            "Jira",
+            "Product Roadmap"
+        ],
+        "experience_years": 7,
+        "summary": "Experienced Product Manager with 7 years of experience. Skilled in Scrum, Jira, Product Roadmap."
+    },
+    {
+        "id": 37,
+        "name": "Sarah Tariq",
+        "role": "Product Manager",
+        "skills": [
+            "Leadership",
+            "Communication",
+            "Product Roadmap",
+            "Agile",
+            "Jira"
+        ],
+        "experience_years": 2,
+        "summary": "Experienced Product Manager with 2 years of experience. Skilled in Leadership, Communication, Product Roadmap, Agile, Jira."
+    },
+    {
+        "id": 38,
+        "name": "Omar Ibrahim",
+        "role": "Product Manager",
+        "skills": [
+            "Agile",
+            "Leadership",
+            "Scrum",
+            "Jira",
+            "Product Roadmap"
+        ],
+        "experience_years": 3,
+        "summary": "Experienced Product Manager with 3 years of experience. Skilled in Agile, Leadership, Scrum, Jira, Product Roadmap."
+    },
+    {
+        "id": 39,
+        "name": "Fatima Said",
+        "role": "Product Manager",
+        "skills": [
+            "Communication",
+            "Agile",
+            "Product Roadmap",
+            "Leadership",
+            "Jira",
+            "Scrum"
+        ],
+        "experience_years": 9,
+        "summary": "Experienced Product Manager with 9 years of experience. Skilled in Communication, Agile, Product Roadmap, Leadership, Jira, Scrum."
+    },
+    {
+        "id": 40,
+        "name": "Nour Abdallah",
+        "role": "Product Manager",
+        "skills": [
+            "Jira",
+            "Leadership",
+            "Scrum",
+            "Product Roadmap"
+        ],
+        "experience_years": 3,
+        "summary": "Experienced Product Manager with 3 years of experience. Skilled in Jira, Leadership, Scrum, Product Roadmap."
+    },
+    {
+        "id": 41,
+        "name": "Aisha Said",
+        "role": "Python Developer",
+        "skills": [
+            "REST APIs",
+            "Python",
+            "Git",
+            "Django",
+            "Flask"
+        ],
+        "experience_years": 5,
+        "summary": "Experienced Python Developer with 5 years of experience. Skilled in REST APIs, Python, Git, Django, Flask."
+    },
+    {
+        "id": 42,
+        "name": "Aisha Kamal",
+        "role": "Frontend Engineer",
+        "skills": [
+            "CSS",
+            "Redux",
+            "TypeScript",
+            "JavaScript",
+            "HTML",
+            "React"
+        ],
+        "experience_years": 2,
+        "summary": "Experienced Frontend Engineer with 2 years of experience. Skilled in CSS, Redux, TypeScript, JavaScript, HTML, React."
+    },
+    {
+        "id": 43,
+        "name": "Ali Hassan",
+        "role": "Product Manager",
+        "skills": [
+            "Product Roadmap",
+            "Scrum",
+            "Jira"
+        ],
+        "experience_years": 7,
+        "summary": "Experienced Product Manager with 7 years of experience. Skilled in Product Roadmap, Scrum, Jira."
+    },
+    {
+        "id": 44,
+        "name": "Mohamed Ali",
+        "role": "Data Scientist",
+        "skills": [
+            "Machine Learning",
+            "NumPy",
+            "Scikit-Learn"
+        ],
+        "experience_years": 2,
+        "summary": "Experienced Data Scientist with 2 years of experience. Skilled in Machine Learning, NumPy, Scikit-Learn."
+    },
+    {
+        "id": 45,
+        "name": "Youssef Said",
+        "role": "Product Manager",
+        "skills": [
+            "Leadership",
+            "Agile",
+            "Product Roadmap"
+        ],
+        "experience_years": 8,
+        "summary": "Experienced Product Manager with 8 years of experience. Skilled in Leadership, Agile, Product Roadmap."
+    },
+    {
+        "id": 46,
+        "name": "Aisha Tariq",
+        "role": "Python Developer",
+        "skills": [
+            "Django",
+            "REST APIs",
+            "Python"
+        ],
+        "experience_years": 1,
+        "summary": "Experienced Python Developer with 1 years of experience. Skilled in Django, REST APIs, Python."
+    },
+    {
+        "id": 47,
+        "name": "Laila Abdallah",
+        "role": "DevOps Engineer",
+        "skills": [
+            "CI/CD",
+            "Linux",
+            "Kubernetes",
+            "Terraform",
+            "Docker"
+        ],
+        "experience_years": 6,
+        "summary": "Experienced DevOps Engineer with 6 years of experience. Skilled in CI/CD, Linux, Kubernetes, Terraform, Docker."
+    },
+    {
+        "id": 48,
+        "name": "Sarah Mansour",
+        "role": "Frontend Engineer",
+        "skills": [
+            "Redux",
+            "JavaScript",
+            "HTML"
+        ],
+        "experience_years": 4,
+        "summary": "Experienced Frontend Engineer with 4 years of experience. Skilled in Redux, JavaScript, HTML."
+    },
+    {
+        "id": 49,
+        "name": "Omar Abdallah",
+        "role": "Product Manager",
+        "skills": [
+            "Jira",
+            "Leadership",
+            "Agile",
+            "Scrum"
+        ],
+        "experience_years": 8,
+        "summary": "Experienced Product Manager with 8 years of experience. Skilled in Jira, Leadership, Agile, Scrum."
+    }
+]
